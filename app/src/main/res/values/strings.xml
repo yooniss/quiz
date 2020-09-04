@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_next">Next</string>
+    <string name="title_activity_result">Results!!!</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/15</string>
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Eclipse is the IDE of choice for Android. Other IDEs won\'t provide all the Android development tools that Eclipse does.</string>
+    <string name="question_2"> Android emulators can be controlled externally via a telnet session.
+</string>
+    <string name="question_3">The Traceview tool automatically collects and displays line coverage information when you run Junit test cases on your Android applications.
+</string>
+    <string name="question_4">Some Android applications depend on recent Java features, such as the try-with-resources statement. Therefore, it is important to make sure that you\'ve installed the latest version of Java in your development environment.
+</string>
+    <string name="question_5">Android Virtual Devices can be created to mimic specific physical devices, such as a Nexus One, or a Galaxy Nexus tablet.
+</string>
+    <string name="question_6">One of the main jobs of the Activity class is to support concurrent access to shared, inter-application data.
+</string>
+    <string name="question_7">The Fragment class is a subclass of the Activity class and replaces Activities on large screen devices such as Tablets.
+</string>
+    <string name="question_8">An AutoCompleteTextView is a subclass of ViewGroup </string>
+    <string name="question_9">When a user long clicks on a View that has registered to show a Context Menu, onCreateContextMenu().
+ methods will be called
+</string>
+    <string name="question_10">manifest is the outermost xml tag used in the AndroidManifest.xml file
+</string>
+    <string name="question_11">c++/c programming languages are Android\'s Native libraries typically </string>
+    <string name="question_12">Location Manager provide to applications
+    User movement and User location.
+</string>
+    <string name="question_13">A mobile app is a software that runs on a mobile device</string>
+    <string name="question_14">In android,objects of the ContentValue class are used to insert rolls into the database</string>
+    <string name="question_15">When a cursor is no longer required,it cannot be closed</string>
+
+
+</resources>
